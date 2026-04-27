@@ -67,6 +67,11 @@ The project includes:
 
 ---
 
+
+
+
+
+
 ## 📂 Folder Structure
 
 bmi_calc/
@@ -83,6 +88,12 @@ bmi_calc/
 ├── test/ # Test files
 ├── pubspec.yaml # Dependencies
 └── README.md # Project documentation
+
+
+
+
+
+
 
 
 ---
