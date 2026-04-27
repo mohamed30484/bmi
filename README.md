@@ -142,7 +142,6 @@ Feel free to fork the repo and submit a pull request.
 
 
 
-https://github.com/user-attachments/assets/785bd621-9110-473d-b8b0-7a0169c9fd5c
 
 
 
