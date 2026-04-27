@@ -126,9 +126,11 @@ Localization (multi-language support)
 
 📸 Screenshots
 
-Add your screenshots here
-/screenshots/home.png
-/screenshots/result.png
+
+
+https://github.com/user-attachments/assets/dfc93a69-c439-43c9-9dee-a76e71ac916a
+
+
 
 📄 License
 This project is open-source and available under the MIT License.
